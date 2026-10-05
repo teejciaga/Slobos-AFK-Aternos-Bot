@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ogyutes.aternos.me",
+    "ip": "surgeonfish.aternos.host",
     "port": 52333,
     "version": "",
     "try-creative": false
